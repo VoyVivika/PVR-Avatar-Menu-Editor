@@ -17,7 +17,7 @@ namespace Voy.PVRScripts.PVRAvatarMenuEditor
 {
         const string VERSION = "1.0.0";
         const string CREDIT = "PoligonVR Avatar Menu Editor by VoyVivika";
-        const string GITLINK = "(InsertLinkHere)";
+        const string GITLINK = "https://github.com/VoyVivika/PVR-Avatar-Menu-Editor";
 
         const float maxWidthMagicNumber = (200 * 3) + 90 + 8;
 
