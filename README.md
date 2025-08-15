@@ -8,3 +8,7 @@ Custom Editor Window in Unity that allows you to Edit a PVR Avatar Menu.
   - "Remove" is called "Delete" (Less Letters, Compact)
  - Adding a new item duplicates the one at the end
    - Faster Menu Item Creation
+## Requirements
+⚠️ As of Writing, PoligonVR is in Closed Beta, you can Request Access on their [Website](https://poligonvr.com) after Signing Up for an account. ⚠️
+- Unity Version Supported by PoligonVR's CCK ([Download Page Linked Here](https://poligonvr.com/home/download))
+- [PoligonVR Avatars CCK](https://poligonvr.com/home/download)
